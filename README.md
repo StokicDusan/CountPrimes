@@ -17,13 +17,13 @@ This script require the time, math, sys and doctest package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/Python-misc.git
-$> cd Python-misc/CountPrimes/
+```bash
+$> git clone https://github.com/StokicDusan/CountPrimes.git
+$> cd CountPrimes/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with two arguments:
-```zsh
+```bash
 $> python countPrimes.py argv1 argv2
 ```
 * argv1:  
