@@ -62,17 +62,17 @@ $ python3 countPrimes.py 1 17
 $ python3 countPrimes.py 1 25
 2 3 5 7 11 13 17 19 23 
 
-$ python3 countPrimes.py 2 90
+$ python3 countPrimes.py 2 1000000
 
-There are 24 Primes!!!!
-26.374% are Primes
-There are 3 Mersenne Primes { Mp=2**p-1 }: 3 7 31 
-There are 3 Euclid Primes { Ep=pn#+1 }: 3 7 31 
-There are 8 Twin Primes
-There are 8 Cousin Primes
-There are 15 Sexy Primes
-There are 10 Pythagorean Primes { Pp=4n+1 }
-Elapsed: 9.8e-05 seconds
+There are 78,498 Primes!!!!
+7.850% are Primes
+There are 7 Mersenne Primes { Mp=2**p-1 }: 3 7 31 127 8191 131071 524287 
+There are 5 Euclid Primes { Ep=pn#+1 }: 3 7 31 211 2311 
+There are 8,169 Twin Primes
+There are 8,144 Cousin Primes
+There are 16,386 Sexy Primes
+There are 39,175 Pythagorean Primes { Pp=4n+1 }
+Elapsed: 0.616262 seconds
 
 $ python3 countPrimes.py 3 31
 2 3 5 7 11 13 17 19 23 29 31 
