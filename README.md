@@ -52,7 +52,7 @@ Invoking the script with no or less arguments will run testmod().
 
 The following code block shows examples of calling the countPrimes script from terminal.
 
-```bash
+```
 $ python3 countPrimes.py 1 1
 
 
