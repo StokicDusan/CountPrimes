@@ -39,3 +39,9 @@ Any positive integer
 :warning: *Note:* Other inputs will result in an error
 
 Invoking the script with no or less arguments will run testmod().
+
+## Provide Feedback 👍
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues][issues-url]
+section of the project.
