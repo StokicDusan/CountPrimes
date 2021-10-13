@@ -18,13 +18,13 @@ This script require the time, math, sys and doctest package.
 ## How to use it
 #### 1. Clone this repository:
 ```bash
-$> git clone https://github.com/StokicDusan/CountPrimes.git
-$> cd CountPrimes/
+$ git clone https://github.com/StokicDusan/CountPrimes.git
+$ cd CountPrimes/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with two arguments:
 ```bash
-$> python countPrimes.py argv1 argv2
+$ python countPrimes.py argv1 argv2
 ```
 * argv1:  
     | argv1                   | Value |
