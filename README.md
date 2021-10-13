@@ -39,3 +39,42 @@ Any positive integer
 :warning: *Note:* Other inputs will result in an error
 
 Invoking the script with no or less arguments will run testmod().
+
+## Examples
+
+The following code block shows examples of calling the countPrimes script from terminal.
+
+```bash
+$ python3 countPrimes.py 1 1
+
+
+$ python3 countPrimes.py 1 17
+2 3 5 7 11 13 17 
+
+$ python3 countPrimes.py 1 25
+2 3 5 7 11 13 17 19 23 
+
+$ python3 countPrimes.py 2 90
+
+There are 24 Primes!!!!
+26.374% are Primes
+There are 3 Mersenne Primes { Mp=2**p-1 }: 3 7 31 
+There are 3 Euclid Primes { Ep=pn#+1 }: 3 7 31 
+There are 8 Twin Primes
+There are 8 Cousin Primes
+There are 15 Sexy Primes
+There are 10 Pythagorean Primes { Pp=4n+1 }
+Elapsed: 9.8e-05 seconds
+
+$ python3 countPrimes.py 3 31
+2 3 5 7 11 13 17 19 23 29 31 
+There are 11 Primes!!!!
+34.375% are Primes
+There are 3 Mersenne Primes { Mp=2**p-1 }: 3 7 31 
+There are 3 Euclid Primes { Ep=pn#+1 }: 3 7 31 
+There are 5 Twin Primes
+There are 4 Cousin Primes
+There are 6 Sexy Primes
+There are 4 Pythagorean Primes { Pp=4n+1 }
+Elapsed: 5.6e-05 seconds
+```
